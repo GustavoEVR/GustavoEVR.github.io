@@ -5,6 +5,16 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Jugadores"
+      href: index.html
+    - text: "Ligas"
+      href: about.html
+    - text: "Torneos"
+      href: index.html
+    - text: "Plataformas"
+      href: about.html
+    - text: "Videojuegos"
+      href: index.html
     - text: "About"
       href: about.html
 output:
