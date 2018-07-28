@@ -1,23 +1,33 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "SSJPeSM"
   left:
-    - text: "Home"
+    - text: "Inicio"
+    <i class="fas fa-home"></i>
       href: index.html
     - text: "Jugadores"
-      href: index.html
+    <i class="far fa-id-card"></i>
+      href: jugadores.html
     - text: "Ligas"
-      href: about.html
+    <i class="far fa-star"></i>
+      href: ligas.html
     - text: "Torneos"
-      href: index.html
+    <i class="fas fa-trophy"></i>
+      href: torneos.html
     - text: "Plataformas"
-      href: about.html
+    <i class="fas fa-desktop"></i>
+      href: plataformas.html
     - text: "Videojuegos"
-      href: index.html
+    <i class="fas fa-gamepad"></i>
+      href: videojuegos.html
     - text: "About"
       href: about.html
 output:
   html_document:
     theme: spacelab
     highlight: textmate
+    
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
