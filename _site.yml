@@ -4,30 +4,29 @@ navbar:
   title: "SSJPeSM"
   left:
     - text: "Inicio"
-    <i class="fas fa-home"></i>
+    - icon: "fas fa-home"
       href: index.html
     - text: "Jugadores"
-    <i class="far fa-id-card"></i>
+    - icon: "far fa-id-card"
       href: jugadores.html
     - text: "Ligas"
-    <i class="far fa-star"></i>
+    - icon: "far fa-star"
       href: ligas.html
     - text: "Torneos"
-    <i class="fas fa-trophy"></i>
+    - icon: "fas fa-trophy"
       href: torneos.html
     - text: "Plataformas"
-    <i class="fas fa-desktop"></i>
+    - icon: "fas fa-desktop"
       href: plataformas.html
     - text: "Videojuegos"
-    <i class="fas fa-gamepad"></i>
+    - icon: "fas fa-gamepad"
       href: videojuegos.html
     - text: "About"
+    - icon: "fas fa-info-circle"
       href: about.html
 output:
   html_document:
-    theme: spacelab
+    theme: united
     highlight: textmate
     
-```{r setup, include=FALSE}
-htmltools::tagList(rmarkdown::html_dependency_font_awesome())
-```
+
