@@ -1,5 +1,7 @@
 ---
-title: "About This Website"
+title: "Acerca del SSJPeSM"
 ---
 
-Información sobre el sitio web.
+Este sitio web, así como el sistema de seguimiento que procesa la información y muestra las diversas gráficas estadístcas, contiene los datos recopilados solamente de dos ligas competitivas de nuestro país, GAMELTA y la Liga Mexicana de Videojuegos, siendo también de momento, llevado el seguimiento de jugadores mexicanos.
+
+Más adelante se incorporarían datos de más jugadores mexicanos pertenecientes a otras ligas extranjeras u a otras más del propio país, así como también se analiza el cómo incluir a los jugadores de diferentes nacionaliades que participan o participaron en las ligas mexicanas de eSports.

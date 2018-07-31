@@ -1,7 +1,6 @@
 ---
-title: "SSJPeSM"
+title: "Sistema de Seguimiento de Jugadores Profesioanes de eSports en México"
 ---
 
-Hello, Website!
-
 ## ¡Hola a todos, bienvenidos al sitio web del Sistema de Seguimiento de Jugadores Profesionales de eSports en México!
+

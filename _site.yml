@@ -1,28 +1,28 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "SSJPeSM"
+  title: "<img id=\"SSJPeSM\" style=\"width: 32px;\" src=\"favicon-32x32.png\" />"
   left:
     - text: "Inicio"
-    - icon: "fas fa-home"
+      icon: fa_home(colour = "#1FA67A")
       href: index.html
     - text: "Jugadores"
-    - icon: "far fa-id-card"
+      icon: fa_id-card(colour = "#1FA67A")
       href: jugadores.html
     - text: "Ligas"
-    - icon: "far fa-star"
+      icon: fa_star(colour = "#1FA67A")
       href: ligas.html
     - text: "Torneos"
-    - icon: "fas fa-trophy"
+      icon: fa_trophy(colour = "#1FA67A")
       href: torneos.html
     - text: "Plataformas"
-    - icon: "fas fa-desktop"
+      icon: fa_desktop(colour = "#1FA67A")
       href: plataformas.html
     - text: "Videojuegos"
-    - icon: "fas fa-gamepad"
+      icon: fa_gamepad(colour = "#1FA67A")
       href: videojuegos.html
     - text: "About"
-    - icon: "fas fa-info-circle"
+      icon: fa_info-circle(colour = "#1FA67A")
       href: about.html
 output:
   html_document:
