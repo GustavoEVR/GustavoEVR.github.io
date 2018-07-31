@@ -1,7 +1,7 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "<img id=\"SSJPeSM\" style=\"width: 57px;\" src=\"apple-icon-57x57.png\" />"
+  title: "<img id=\"SSJPeSM\" style=\"width: 40px;\" src=\"apple-icon-57x57.png\" />"
   left:
     - text: "Inicio"
       icon: fa-home(colour = "#1FA67A")
