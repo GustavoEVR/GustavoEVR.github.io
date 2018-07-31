@@ -4,25 +4,25 @@ navbar:
   title: "<img id=\"SSJPeSM\" style=\"width: 35px;\" src=\"apple-icon-57x57.png\" />"
   left:
     - text: "Inicio"
-      icon: fas fa-home(colour = "#1FA67A")
+      icon: fa-home(colour = "#1FA67A")
       href: index.html
     - text: "Jugadores"
-      icon: fas fa-id-card(colour = "#1FA67A")
+      icon: fa-id-card(colour = "#1FA67A")
       href: jugadores.html
     - text: "Ligas"
-      icon: fas fa-star(colour = "#1FA67A")
+      icon: fa-star(colour = "#1FA67A")
       href: ligas.html
     - text: "Torneos"
-      icon: fas fa-trophy(colour = "#1FA67A")
+      icon: fa-trophy(colour = "#1FA67A")
       href: torneos.html
     - text: "Plataformas"
-      icon: fas fa-desktop(colour = "#1FA67A")
+      icon: fa-desktop(colour = "#1FA67A")
       href: plataformas.html
     - text: "Videojuegos"
-      icon: fas fa-gamepad(colour = "#1FA67A")
+      icon: fa-gamepad(colour = "#1FA67A")
       href: videojuegos.html
     - text: "About"
-      icon: fas fa-info-circle(colour = "#1FA67A")
+      icon: fa-info-circle(colour = "#1FA67A")
       href: about.html
 output:
   html_document:
