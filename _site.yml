@@ -21,7 +21,7 @@ navbar:
     - text: "Videojuegos"
       icon: fa-gamepad
       href: videojuegos.html
-    - text: "About"
+    - text: "Acerca del SSJPeSM"
       icon: fa-info-circle
       href: about.html
 output:

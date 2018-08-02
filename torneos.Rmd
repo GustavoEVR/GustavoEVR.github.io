@@ -2,4 +2,6 @@
 title: "Torneos"
 ---
 
-Información sobre los torneos realizados de eSports en México.
+###Información sobre los torneos realizados de eSports en México.
+
+En esta página, se ecuentran las estadísticass de cada uno de los torneos o eventos que han sido orgaizados por GAMELTA y la LMV.

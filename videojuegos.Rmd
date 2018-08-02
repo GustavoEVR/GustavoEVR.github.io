@@ -2,4 +2,6 @@
 title: "Videojuegos"
 ---
 
-Información sobre los videojuegos de eSports.
+###Información sobre los videojuegos donde se compite.
+
+Los videojuegos son una parte fundamental de los eSports, pues sin ellos no habrían torneos, eventos o campeonatos mundiales que disputar, así como a jugadores y equipos a los que seguir, y encima, ofrecen una gran variedad de genéros aumentando las posibilidades departicipar en alguno así como de mantener vigentes y de forma creciente a los eSports.

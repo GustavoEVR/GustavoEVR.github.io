@@ -2,4 +2,6 @@
 title: "Ligas"
 ---
 
-Información sobre las ligas profesionales de eSports mexicanas.
+###Información sobre las ligas profesionales de eSports mexicanas.
+
+GAMELTA y la Liga Mexicana de Videojuegos son las ligas mejor reconocidas en nuetro país y que han ayudado al crecimiento de la escena competitiva mexicana como jugadores o equipos enteros a crecer en llos eSports.
