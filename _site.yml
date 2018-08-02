@@ -28,4 +28,4 @@ output:
   html_document:
     theme: united
     highlight: textmate
-    text-align : justify
+    
