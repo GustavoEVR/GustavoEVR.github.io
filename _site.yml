@@ -28,4 +28,5 @@ output:
   html_document:
     theme: united
     highlight: textmate
-    
+    include:
+      after_body: footer.html

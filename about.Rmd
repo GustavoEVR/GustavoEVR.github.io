@@ -9,4 +9,10 @@ De igual forma, este sitio web es una pequeña forma de hacer crecer a la escena
 
 Más adelante se incorporarían datos de más jugadores mexicanos pertenecientes a otras ligas extranjeras u a otras más del propio país, así como también se analiza el cómo incluir a los jugadores de diferentes nacionaliades que participan o participaron en las ligas mexicanas de eSports.
 
-![](eSports-en-México.png)
+``` {r}
+library(networkD3)
+data(MisLinks, MisNodes)
+forceNetwork(Links = MisLinks, Nodes = MisNodes, Source = "source",
+             Target = "target", Value = "value", NodeID = "name",
+             Group = "group", opacity = 0.3)
+```
