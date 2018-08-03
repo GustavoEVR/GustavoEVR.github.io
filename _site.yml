@@ -1,4 +1,4 @@
-name: "my-website"
+name: "Sistema de Seguimiento de Jugadores Profesionales de eSports en México"
 output_dir: "."
 navbar:
   title: "<img id=\"SSJPeSM\" style=\"width: 35px;\" src=\"apple-icon-57x57.png\" />"
